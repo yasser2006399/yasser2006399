@@ -2,15 +2,11 @@
  
 <h3 align="center">⚡ Electrical Engineering Student | Electronics & Embedded Enthusiast ⚡</h3>
  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student;Passionate+about+Electronics+%26+Tech;Building+hands-on+projects;Always+learning+something+new" alt="Typing SVG" />
-</p>
 ---
  
 ## 💫 About Me
  
 - I am an Electrical Engineering student passionate about electronics and technology, always eager to learn, create, and explore innovative solutions through practical, hands-on projects.
----
  
 ## 💻 Tech Stack
  
